@@ -1,0 +1,28 @@
+{
+  "name": "akshay",
+  "version": "1.0.0",
+  "description": "This is React ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/pratyaygaurav/Namaste_React.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Pratyay",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
